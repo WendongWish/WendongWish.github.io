@@ -4,11 +4,11 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://WendongWish.github.io",
+  hostname: "https://wendongwish.github.io/wendongwish",
 
   author: {
     name: "Hongyi Wang",
-    url: "https://WendongWish.github.io",
+    url: "https://wendongwish.github.io/wendongwish",
   },
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
