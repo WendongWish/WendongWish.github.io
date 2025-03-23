@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://WendongWish.github.io/sitemap.xml
+Sitemap: https://wendongwish.github.io/wendongwish/sitemap.xml
