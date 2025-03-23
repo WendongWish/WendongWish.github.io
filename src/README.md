@@ -1,11 +1,11 @@
 ---
-home: true
+home: False
 layout: BlogHome
 icon: house
 title: Blog Home
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: The name of your blog
-tagline: You can put your slogan here
+heroText: Hi, why
+tagline: Active souls are the first to embrace the wonders of the world!
 heroFullScreen: true
 projects:
   - icon: folder-open
