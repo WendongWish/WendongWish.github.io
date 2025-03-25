@@ -1,6 +1,6 @@
 ---
-title: Features demo
-index: false
+title: others
+index: True
 icon: laptop-code
 category:
   - Guide

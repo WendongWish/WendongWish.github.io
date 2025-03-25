@@ -1,5 +1,5 @@
 ---
-title: Features demo
+title: Customizable
 index: false
 icon: laptop-code
 category:

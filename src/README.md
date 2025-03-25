@@ -9,14 +9,9 @@ tagline: Active souls are the first to embrace the wonders of the world!
 heroFullScreen: true
 projects:
   - icon: folder-open
-    name: project name
-    desc: project detailed description
-    link: https://your.project.link
-
-  - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
+    name: Github repositories
+    desc: Continuously updated...
+    link: https://github.com/WendongWish?tab=repositories
 
   - icon: book
     name: book name
@@ -29,20 +24,13 @@ projects:
     link: https://link.to.your.article
 
   - icon: user-group
-    name: friend name
-    desc: Detailed description of friend
-    link: https://link.to.your.friend
+    name: Open Visual Lab
+    desc: Only with a mind free from distractions can one see the Way.
+    link: https://openvisuallab.github.io/
 
-  - icon: https://theme-hope-assets.vuejs.press/logo.svg
-    name: custom item
-    desc: Detailed description of this custom item
-    link: https://link.to.your.friend
-
+#  - icon: link
+#    name: link name
+#    desc: link detailed description
+#    link: https://link.address
 footer: customize your footer text
 ---
-
-This is a blog home page demo.
-
-To use this layout, you should set both `layout: BlogHome` and `home: true` in the page front matter.
-
-For related configuration docs, please see [blog homepage](https://theme-hope.vuejs.press/guide/blog/home.html).
