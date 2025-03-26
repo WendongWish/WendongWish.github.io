@@ -18,10 +18,10 @@ projects:
     desc: Detailed description of the book
     link: https://link.to.your.book
 
-  - icon: newspaper
-    name: article name
-    desc: Detailed description of the article
-    link: https://link.to.your.article
+  - icon: link
+    name: Team leader
+    desc: My guide on the road to science.
+    link: https://faculty.cqupt.edu.cn/lengjiaxu/zh_CN/index/106902/list/index.htm
 
   - icon: user-group
     name: Open Visual Lab
