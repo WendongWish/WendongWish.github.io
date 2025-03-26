@@ -13,13 +13,13 @@ projects:
     desc: Continuously updated...
     link: https://github.com/WendongWish?tab=repositories
 
-  - icon: book
-    name: book name
-    desc: Detailed description of the book
-    link: https://link.to.your.book
+  - icon: user-group
+    name: Xinbo Gao
+    desc: My guide on the road to science.
+    link: https://see.xidian.edu.cn/faculty/xbgao/
 
-  - icon: link
-    name: Team leader
+  - icon: user-group
+    name: Jiaxu Leng
     desc: My guide on the road to science.
     link: https://faculty.cqupt.edu.cn/lengjiaxu/zh_CN/index/106902/list/index.htm
 
