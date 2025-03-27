@@ -12,6 +12,11 @@ projects:
     name: Github repositories
     desc: Continuously updated...
     link: https://github.com/WendongWish?tab=repositories
+        
+  - icon: user-group
+    name: Mengjingcheng Mo
+    desc: A Collaborator on the Journey of Scientific Research.
+    link: https://2-mo.github.io/
 
   - icon: user-group
     name: Xinbo Gao
