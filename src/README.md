@@ -19,6 +19,11 @@ projects:
     link: https://2-mo.github.io/
 
   - icon: user-group
+    name: Shuang Li
+    desc: A Collaborator on the Journey of Scientific Research.
+    link: https://visuang.github.io/index.html
+    
+  - icon: user-group
     name: Xinbo Gao
     desc: My guide on the road to science.
     link: https://see.xidian.edu.cn/faculty/xbgao/
